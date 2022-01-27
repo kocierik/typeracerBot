@@ -1,0 +1,2 @@
+# typeracerBot
+Bot for typeracer
