@@ -1,2 +1,10 @@
-# typeracerBot
-Bot for typeracer
+# typeracer-Bot
+
+---
+
+### Usage:
+
+- `make`  to launch
+  
+- `make clean`  delete log file
+
