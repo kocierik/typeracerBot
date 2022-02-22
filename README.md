@@ -1,10 +1,23 @@
-# typeracer-Bot
+## typeracer-Bot
 
+
+### requirements:
+
+install dependencies:
+
+```
+make install
+``` 
 ---
 
-### Usage:
+run:
+```
+make
+```
 
-- `make`  to launch
-  
-- `make clean`  delete log file
+delete log file:
+
+```
+make clean
+```  
 
